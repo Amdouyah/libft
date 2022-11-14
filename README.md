@@ -1,2 +1,2 @@
 # libft
-fundmental c functions 
+fundamental c functions 
